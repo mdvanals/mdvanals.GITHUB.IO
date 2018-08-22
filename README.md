@@ -11,6 +11,7 @@ I changed the readme file just now.
 One to two paragraph statement about your product and what it does.
 
 ![](header.png)
+![](header2.png)
 
 ## Installation
 
@@ -23,8 +24,12 @@ npm install my-crazy-module --save
 Windows:
 
 ```sh
-edit autoexec.bat
+edit Mini.xp
 ```
+
+## What do we want to do with this information.
+
+Walk through the park and go home.
 
 ## Usage example
 
