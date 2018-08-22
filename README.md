@@ -7,6 +7,7 @@
 
 
 I changed the readme file just now.
+and I changed it too.
 
 One to two paragraph statement about your product and what it does.
 
